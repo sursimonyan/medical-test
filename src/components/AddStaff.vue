@@ -39,7 +39,7 @@ function save() {
 
 <template>
   <div class="fixed top-0 left-0 flex w-full h-full bg-[rgba(0,0,0,0.3)]">
-    <div class="m-auto w-[500px] h-[320px] p-5 bg-white z-20">
+    <div class="m-auto w-[500px] p-5 bg-white z-20">
       <div class="mb-3">
         <label>
           <span class="block mb-1">Отделение:</span>
