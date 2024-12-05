@@ -1,0 +1,66 @@
+{
+  "Staff": [
+    {
+      "id": 1,
+      "name": "Жуков Семен Сергеевич",
+      "profession": 1,
+      "main": true,
+      "department": 1
+    },
+    {
+      "id": 2,
+      "name": "Буднева Татьяна Михайловна",
+      "profession": 1,
+      "main": false,
+      "department": 1
+    },
+    {
+      "id": 3,
+      "name": "Гучмазова Илона Викторовна",
+      "profession": 2,
+      "main": false,
+      "department": 1
+    },
+    {
+      "id": 4,
+      "name": "Максимюк Ольга Викторовна",
+      "profession": 1,
+      "main": true,
+      "department": 2
+    },
+    {
+      "id": 5,
+      "name": "Григорьевская Злата Валерьевна",
+      "profession": 1,
+      "main": false,
+      "department": 2
+    },
+    {
+      "id": 6,
+      "name": "Прохорова Наталья Валерьевна",
+      "profession": 2,
+      "main": false,
+      "department": 2
+    }
+  ],
+  "departments": [
+    {
+      "id": 1,
+      "name": "кардиологический"
+    },
+    {
+      "id": 2,
+      "name": "хирургический"
+    }
+  ],
+  "professions": [
+    {
+      "id": 1,
+      "name": "Врач"
+    },
+    {
+      "id": 2,
+      "name": "Медсестра"
+    }
+  ]
+}
